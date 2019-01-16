@@ -1,1 +1,1 @@
-![link] (https://github.com/friedac)
+![link](https://github.com/friedac)
