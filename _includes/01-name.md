@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Frieda - A large header sentence
+### Another semi-large header
+###### Smallest header
