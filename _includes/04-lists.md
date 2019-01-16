@@ -1,3 +1,3 @@
-[] 1st list
-[] 2nd list
-[] 3rd list
+- [ ] 1st list
+- [ ] 2nd list
+- [ ] 3rd list
